@@ -1,0 +1,27 @@
+{
+    "name": "@sutext/storage",
+    "version": "1.0.0",
+    "description": "A simple orm framework base on localstorage",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'test script not exist' & exit 1"
+    },
+    "files": [
+        "index.d.ts",
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/sutext/web-storage.git"
+    },
+    "keywords": [
+        "localstorage",
+        "orm"
+    ],
+    "author": "supertext@icloud.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sutext/web-storage/issues"
+    },
+    "homepage": "https://github.com/sutext/web-storage#readme"
+}
